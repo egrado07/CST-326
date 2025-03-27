@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cca1ebbd5203504429256ccbe54397f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buildEffect: {instanceID: 0}
+  - sellEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
